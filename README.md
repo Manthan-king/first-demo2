@@ -1,3 +1,3 @@
-# first-demo2
+# first-demo
 this is my first git repository
 author - manthan powar
